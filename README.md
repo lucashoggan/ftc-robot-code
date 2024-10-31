@@ -1,3 +1,3 @@
-## Fetures
+## Features
 
 - Nothing yet :(
